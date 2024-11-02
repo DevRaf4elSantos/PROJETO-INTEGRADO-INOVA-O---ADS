@@ -1,4 +1,4 @@
-# SISTEMA LÓGISTICO 🛒
+# SISTEMA LOGÍSTICO 🛒
    Sistema de cadastro de produtos para resolução do desafio proposto no desafio integrado da faculdade anhanguera, 
    para que o desafio seja considerado finalizado é preciso ter as seguintes funcionalidades:
   
