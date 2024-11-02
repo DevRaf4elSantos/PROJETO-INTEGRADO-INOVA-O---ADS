@@ -16,19 +16,31 @@
   arquivo principal (entry point) 'programa.py', que deve ser executado para conseguir usar o sistema de forma completa.
     
 ## Print do Projeto:
-CADASTRO:
+- CADASTRO:
+
+
 ![image](https://github.com/user-attachments/assets/6ec9cc00-05eb-4ab8-b098-2b8153648095)
 
-ATUALIZAÇÃO DO ESTOQUE (ENTRADA):
+- ATUALIZAÇÃO DO ESTOQUE (ENTRADA):
+
+
 ![image](https://github.com/user-attachments/assets/2f23dca1-8ecb-44b7-88f0-78e78c4922ac)
 
-ATUALIZAÇÃO DO ESTOQUE (SAÍDA):
+- ATUALIZAÇÃO DO ESTOQUE (SAÍDA):
+
+
 ![image](https://github.com/user-attachments/assets/9f26f93a-687b-4270-bc66-4311fb556e66)
 
-MOSTRAR LOCALIZAÇÃO:
+- MOSTRAR LOCALIZAÇÃO:
+
+
 ![image](https://github.com/user-attachments/assets/5b9d1431-517b-4f01-969e-4fd8a0965687)
 
-GERAR RELATÓRIO:
+- GERAR RELATÓRIO:
+
+
 ![image](https://github.com/user-attachments/assets/4289a765-6a30-4e8b-af60-4e504c630a6d)
+
 Nesta parte mostra todas as movimentações desde a criação do produto até a atualização dos seus valores (seja entrada ou saida do estoque).
+
 
